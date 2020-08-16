@@ -1,3 +1,10 @@
+"""
+Created on Fri May 14 22:22:14 2020
+
+@email_id : shubham.more26@gmail.com
+@author: SHUBHAM MORE
+"""
+
 import csv
 from collections import defaultdict
 from colorama import *
@@ -6,9 +13,8 @@ reset = Style.RESET_ALL
 wrng = Fore.RED + Style.BRIGHT
 data = defaultdict(list)
 
-data['raj'].append(8745169510)
-data['shubham'].append(9595130613)
-data['shubham'].append(9574012465)
+
+data['shubham'].append(9578744501)
 
 
 def check_book():
